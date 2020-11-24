@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#89b0ae</color> // Aqui muda o header (nome do aplicativo)
+    <color name="colorPrimaryDark">#89b0ae</color> // Aqui muda a cor da borda de status bar
+    <color name="colorAccent">#939598</color> // Aqui muda a cor da borda que insere dados
+</resources>
