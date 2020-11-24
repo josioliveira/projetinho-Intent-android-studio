@@ -1,0 +1,1 @@
+Cálculo do IMC e apresentação dos resultados nas activitys seguintes usando o Intent.
